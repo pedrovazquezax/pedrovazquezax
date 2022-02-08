@@ -5,9 +5,9 @@
 
 My name is Pedro Vazquez and I'm a iOS developer/ engineer. I'm from Mexico City, currently working at Globant developing Apps. You can find me on [![Twitter][1.2]][1], on [My web](https://pedrovazquezax.github.io)  or on [![LinkedIn][3.2]][3] .
 
-## &#x1F4F9; Youtube Channel
+<!--## &#x1F4F9; Youtube Channel
 
-Apart from coding, I also colaborating in a Youtube chanel to help new students start programming and older students to reach out a job- you can find our videos at [Vida de Desarrollador](https://www.youtube.com/channel/UCD5YA8FKTevMH5fuzDucoJg).
+Apart from coding, I also colaborating in a Youtube chanel to help new students start programming and older students to reach out a job- you can find our videos at [Vida de Desarrollador](https://www.youtube.com/channel/UCD5YA8FKTevMH5fuzDucoJg).-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
