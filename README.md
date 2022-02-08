@@ -3,7 +3,7 @@
 
 <!--[![Header]()](https://pedrovazquezax.github.io)-->
 
-My name is Pedro Vazquez and I'm a iOS developer/ engineer. I'm from Mexico City, currently working at Globant developing Apps. You can find me on [![Twitter][1.2]][1], on [My web](https://pedrovazquezax.github.io)  or on [![LinkedIn][3.2]][3] .
+My name is Pedro Vazquez and I'm a iOS developer/ engineer. I'm from Mexico City, currently working at Wizeline developing Apps. You can find me on [![Twitter][1.2]][1], on [My web](https://pedrovazquezax.github.io)  or on [![LinkedIn][3.2]][3] .
 
 <!--## &#x1F4F9; Youtube Channel
 
